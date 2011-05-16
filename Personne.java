@@ -1,3 +1,3 @@
 public class Personne {
-	int gg = 0;
+	int gg = 0; gg++;
 }
